@@ -1,0 +1,23 @@
+[
+  {
+    "image":"pic3.jpg",
+    "name":"vanila cake",
+    "cal":500,
+    "price":40
+
+  },
+  {
+    "image":"pic4.jpg",
+    "name":"mango cake",
+    "cal":500,
+    "price":40
+
+  },
+  {
+    "image":"pic2.jpg",
+    "name":"mango cake",
+    "cal":500,
+    "price":40
+
+  }
+]

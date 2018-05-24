@@ -1,0 +1,26 @@
+body{
+    background-color: silver;
+    margin:0;
+    font-family: verdana;
+}
+
+.all_site{
+    max-width: 800px;
+    background-color: white;
+    margin:0 auto;
+    padding:10px;
+    overflow: hidden;
+}
+
+.box{
+    width:49%;
+    border:1px solid black;
+    padding:10px;
+    box-sizing: border-box;
+    float:left;
+    margin-right: 1%;
+}
+
+.box img{
+    width:100%;
+}
